@@ -251,7 +251,7 @@ blockquote cite:before { content: "\2014"; padding-right: 5px; }
 
 /* links */
 a:visited { color: #cecece; }
-a:hover { color: #cecece; outline: 0; }
+a:hover { color: #eaeaea; outline: 0; }
 
 /* buttons */
 /* code */
